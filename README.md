@@ -22,4 +22,4 @@ The Features are:
 3. Designed CMOS logic gates from scratch (AND, OR, NOT, XOR, etc.)
 4. Built a full 4-bit full adder, subtractor at the transistor level
 
-![OpenAI Logo](https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg "OpenAI Logo")
+![image]("https://www.google.com/url?sa=i&url=http%3A%2F%2Fvlabs.iitkgp.ac.in%2Fcoa%2Fexp8%2Fcontent.html&psig=AOvVaw1xPNXKdw3QDqTfw1wrl75g&ust=1760598331413000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjDqYfSpZADFQAAAAAdAAAAABAK")
